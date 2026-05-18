@@ -1,2 +1,2 @@
-Student Course Management
+Library Management
 Django-backend
