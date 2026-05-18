@@ -1,2 +1,3 @@
-Library Management
+Library Management System
+
 Django-backend
