@@ -1,2 +1,2 @@
-# DjangoProject
+Student Course Management
 Django-backend
